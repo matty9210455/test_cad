@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl_role">
+    <sys_security_acl_role action="INSERT_OR_UPDATE">
+        <sys_class_name>sys_security_acl_role</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-03-03 17:03:21</sys_created_on>
+        <sys_id>bb59929447300210007c4db3416d43e3</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_894108_test_cad_test_scoped.x_894108_test_cad.admin</sys_name>
+        <sys_package display_value="Test CAD" source="x_894108_test_cad">ce19da5447300210007c4db3416d430a</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Test CAD">ce19da5447300210007c4db3416d430a</sys_scope>
+        <sys_security_acl display_value="x_894108_test_cad_test_scoped">3359929447300210007c4db3416d43e0</sys_security_acl>
+        <sys_update_name>sys_security_acl_role_bb59929447300210007c4db3416d43e3</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-03-03 17:03:21</sys_updated_on>
+        <sys_user_role display_value="x_894108_test_cad.admin" name="x_894108_test_cad.admin">5a19da5447300210007c4db3416d4312</sys_user_role>
+    </sys_security_acl_role>
+</record_update>

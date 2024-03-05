@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_embedded_help_role">
+    <sys_embedded_help_role action="INSERT_OR_UPDATE">
+        <order>1000</order>
+        <role display_value="x_894108_test_cad.user" name="x_894108_test_cad.user">9e19da5447300210007c4db3416d4316</role>
+        <sys_class_name>sys_embedded_help_role</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-03-03 17:02:09</sys_created_on>
+        <sys_id>9a19da5447300210007c4db3416d4317</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>9e19da5447300210007c4db3416d4316</sys_name>
+        <sys_package display_value="Test CAD" source="x_894108_test_cad">ce19da5447300210007c4db3416d430a</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Test CAD">ce19da5447300210007c4db3416d430a</sys_scope>
+        <sys_update_name>sys_embedded_help_role_9a19da5447300210007c4db3416d4317</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-03-03 17:02:09</sys_updated_on>
+    </sys_embedded_help_role>
+</record_update>

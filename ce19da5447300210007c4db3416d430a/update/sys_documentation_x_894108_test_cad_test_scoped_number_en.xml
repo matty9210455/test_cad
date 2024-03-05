@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_documentation element="number" label="Number" language="en" table="x_894108_test_cad_test_scoped">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element>number</element>
+            <help/>
+            <hint/>
+            <label>Number</label>
+            <language>en</language>
+            <name>x_894108_test_cad_test_scoped</name>
+            <plural>Numbers</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-03-03 17:03:16</sys_created_on>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>Number</sys_name>
+            <sys_package display_value="Test CAD" source="x_894108_test_cad">ce19da5447300210007c4db3416d430a</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Test CAD">ce19da5447300210007c4db3416d430a</sys_scope>
+            <sys_update_name>sys_documentation_x_894108_test_cad_test_scoped_number_en</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-03-03 17:03:16</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>
